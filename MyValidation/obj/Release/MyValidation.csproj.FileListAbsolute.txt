@@ -1,0 +1,9 @@
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\bin\Release\MyValidation.dll
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\bin\Release\MyValidation.pdb
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\obj\Release\MyValidation.dll
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\obj\Release\MyValidation.pdb
+C:\Users\hiroyuki4520\Desktop\InputValidation\MyValidation\bin\Release\MyValidation.dll
+C:\Users\hiroyuki4520\Desktop\InputValidation\MyValidation\bin\Release\MyValidation.pdb
+C:\Users\hiroyuki4520\Desktop\InputValidation\MyValidation\obj\Release\MyValidation.csprojResolveAssemblyReference.cache
+C:\Users\hiroyuki4520\Desktop\InputValidation\MyValidation\obj\Release\MyValidation.dll
+C:\Users\hiroyuki4520\Desktop\InputValidation\MyValidation\obj\Release\MyValidation.pdb

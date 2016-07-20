@@ -1,0 +1,5 @@
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\bin\Debug\MyValidation.dll
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\bin\Debug\MyValidation.pdb
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\obj\Debug\MyValidation.dll
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\obj\Debug\MyValidation.pdb
+C:\Users\hiroyuki4520\Desktop\MyValidation\MyValidation\obj\Debug\MyValidation.csprojResolveAssemblyReference.cache

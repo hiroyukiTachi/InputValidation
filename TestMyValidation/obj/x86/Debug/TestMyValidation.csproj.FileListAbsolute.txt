@@ -1,0 +1,10 @@
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\bin\Debug\TestMyValidation.exe
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\bin\Debug\TestMyValidation.pdb
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\bin\Debug\MyValidation.dll
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\bin\Debug\MyValidation.pdb
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\obj\x86\Debug\TestMyValidation.csprojResolveAssemblyReference.cache
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\obj\x86\Debug\TestMyValidation.frmValidation.resources
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\obj\x86\Debug\TestMyValidation.Properties.Resources.resources
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\obj\x86\Debug\TestMyValidation.csproj.GenerateResource.Cache
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\obj\x86\Debug\TestMyValidation.exe
+C:\Users\hiroyuki4520\Desktop\MyValidation\TestMyValidation\obj\x86\Debug\TestMyValidation.pdb
